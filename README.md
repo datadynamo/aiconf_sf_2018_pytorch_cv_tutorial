@@ -1,4 +1,4 @@
-# AI Conference San Francisco 2018 PyTorch Computer Vision Tutorial
+# AI Conference 2018 PyTorch Computer Vision Tutorial
 Slack Channel for Tutorial:
 https://pytorchcvtutorial.slack.com/
 
